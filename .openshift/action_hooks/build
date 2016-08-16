@@ -1,6 +1,6 @@
 #!/bin/bash
 ROOT=$OPENSHIFT_DATA_DIR
-SONAR_VERSION=6.0
+SONAR_VERSION=5.6
 
 # VM Options for sonarqube web application, elastic search and compute engine processes
 # sonarqube web application: 
